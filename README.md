@@ -112,7 +112,7 @@
 
 ### Current Coordination.
 
-### Reinforcement Learning - See Google's algorithm AlphaGo or the DoTa openAI 1v1 match.
+### Reinforcement Learning - See the DoTa openAI 1v1 match.
 - more to come. Action - Value Optimization.
 
 ### Deep Reinforcement Learning
@@ -121,3 +121,4 @@
 - Detector loops are not capable of providing accurate traffic information for this system.
 - Video based analysis will work instead.
      - Also vehicle to x may take its place, depends on time, can also use bluetooth or a variety of other detectors, but computer vision is the best option known now.
+
