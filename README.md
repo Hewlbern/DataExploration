@@ -1,6 +1,6 @@
-# In Australia, congestion cost has been estimated to be up to $37.3 billion by 2030
-# Traffic signal optimization is the method by which time stopped at traffic signals is reduced. 
-# SCATS is a traffic signal optimization system.
+### In Australia, congestion cost has been estimated to be up to $37.3 billion by 2030
+### Traffic signal optimization is the method by which time stopped at traffic signals is reduced. 
+## SCATS is a traffic signal optimization system.
 
 So,
 
