@@ -1,4 +1,3 @@
-.....
 ## Traffic Analysis and Exploration - and how to build a better coordination system.
 - This repo is an analysis of traffic detection and data types including:
      - visualizations (dashboard, mapping, etc)
