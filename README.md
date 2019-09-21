@@ -33,24 +33,24 @@
 
 # What is wrong with scats volume, can it be machine learned ‘fixed’ or not?
 
-### To start with, what is a loop detector 
-- What is a loop detector, what does a loop detector look like and can you build your own loop detector?
+### Loop detectors
+- What is a loop detector?
     - https://www.youtube.com/watch?v=MQTHcKgDRto#t=5m28s
-- What does professional installation of loop detectors look like?
+- A professional installation of loop detectors.
     - https://www.youtube.com/watch?v=OFpnJZ_jF68#t=2m05s
 
 
 ### Why has loop detection and SCATS not changed.
 -  This is well covered here, Finance and Economics: http://kimoon.co.kr/gmi/reading/friedman-1966.pdf 
 - Positive science and normative science – or better said, unbiased observations and unbiased observations made bias.
-- The relevant question to ask about the "assumptions" of a theory is not whether they are descriptively "realistic," for they never are, but whether they are sufficiently good approximations for the purpose in hand. And this question can be answered only by seeing whether the theory works, which means whether it yields sufficiently accurate predictions.”
+     - "The relevant question to ask about the "assumptions" of a theory is not whether they are descriptively "realistic," for they never are, but whether they are sufficiently good approximations for the purpose in hand. And this question can be answered only by seeing whether the theory works, which means whether it yields sufficiently accurate predictions."
 
 ### Failure Rates worldwide, and in Victoria, of loop detectors.
 
 #### 1. Is there a World recognized body, who can authoritatively assert failure rates for loop detectors?
     - Yes. Federal Transportation Administrative, and more, 25 years ago wanted to improve loop detectors with 7 different "state of the art" technologies that were vastly superior. 25% at any one time in America were broken.
 #### 2. What are other authorities failure rates and how does it compare to the USA at a estimate 25%?
-    - The authority checked developed and uses a excel tool to identify maintenance issues which are impacting on the operation of the traffic signal network. 
+    - Developed and uses a excel tool to identify maintenance issues which are impacting on the operation of the traffic signal network. 
     - The failure rate for loop detectors, if we isolated only 1 ‘data’ created as a result of loop detector failure (there are more than 1 type of failure to identify). This is only for very obvious failures. 
     - Loop detector failure, measured by DS (degree of saturation) is not the only data issue created by reliance on loop detectors.
         - Chatter (excessive counting caused by e.g. bus or truck braking), Lane Discipline (car triggering 2 lane detectors) and other contributory variables combine to make reliance upon a broken system of loop detectors, unfeasible as the source of ground truth – as each of these emanate faulty data from failing loop detectors.
@@ -67,7 +67,7 @@
 
 
 ### Assumptions/dependencies: -
-1.	‘Number of gaps’ is a ‘voltage drop’ (remember video showing vehicle detection), assuming the current/loop detector is not broken, this ‘voltage drop’ itself additionally is premised on a vehicle size of 4.5 meters and is subject to being affected by speed calibration when setting up the ‘gain’ of the signal.
+1.	‘Number of gaps’ is a ‘voltage drop’, assuming the current/loop detector is not broken, this ‘voltage drop’ itself additionally is premised on a vehicle size of 4.5 meters and is subject to being affected by speed calibration when setting up the ‘gain’ of the signal.
 2.	‘ending a phase may be decided by a local controller’ based on…not detecting a vehicle (i.e. ‘a lack of available vehicles which wish to pass through’).
 3.	All 3 ‘data’ calculations created by a Regional controller, (VO, DS, VK) manifest from a sourcing of loop detector information ‘passed from the local controller’.
 
@@ -77,10 +77,10 @@
 - One may interpret this dissertation effort as, ‘get the raw data out of SCATS and design an improved Algorithm to reduce traffic congestion and learn what’s going on’, another interpretation may be, ‘how badly is the SCATS algorithms performing against our own design, using the same data as SCATS actually uses’.
 
 ## Other Dependencies
-1. SCATS is premised upon the faultless functioning of each lanes loop detector. This is magnified by subsequent SCATS ‘calculations’ and further assumptions which SCATS applies to the raw sourced information from the loop detector, including ‘smoothing and damping’ data the loop detector provides (sic), to compensate for ‘occasional significant fluctuation’, attributed to ‘various causes’.
-#### 2. SCATS for “the first time lets humans decide for themselves if a detector is faulty and to otherwise ignore the SCATS calculations and operations (paraphrased)”. This concession, ultimately relies on user knowledge to displace SCATS calculations and ignore the erroneous volume calculations based on SCATS utter dependency upon faultless operation of loop detectors.
-    - Can we find this feature “(that) SCATS involves human user to decide for themselves if a detector is faulty and no longer detecting vehicles as they pass by.” and make necessary traffic management decisions, anywhere in the SCATS promotional materials available online today, alternatively will the ‘caveat emptor’ raised in the above dissertation be raised by the vendor?.
-#### Interestingly, the official SCATS manual is less than helpful on targeting readers to potential issues of concern.
+1. SCATS relies on the faultless functioning of each lanes loop detector. 
+     - Subsequent SCATS calculations and further assumptions which SCATS applies to the raw sourced information from the loop detector, including ‘smoothing and damping’ data the loop detector provides (sic), to compensate for ‘occasional significant fluctuation’, attributed to ‘various causes’.
+#### 2. SCATS relies upon humans deciding for themseles if a detector is faulty or not. This ultimately relies on user knowledge to displace SCATS calculations and to ignore the faulty volume calculations based on SCATS's reliance on faultless loop detectors.
+    - This issue interestingly not mentioned in SCATS's promotional materials or manuals or well anywhere lel. 
 
 
 
