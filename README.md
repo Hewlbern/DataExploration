@@ -89,8 +89,9 @@
 ### It's super easy to do and cheaper than loop detectors and has more future functionality.
 
 #### Truth must be established.
- - "To establish truth, in terms of “occupancy, volume, queue lengths and speed”, we need a “technology (that) has been refined to a point, that field evaluations are currently being made.”. 
-     - This is a 25 year old quote made in the above 1993 U.S. Department of Transportation, Federal Highway Administration training video, based on their having conducted numerous surveys across numerous U.S. States which had led to the assertion, that they collectively had a constant/at any point in time a 25% detector failure…causing “the large number of failures nationwide (having) created a deep concern within the traffic engineering community”.
+ - "To establish ground truth, in terms of “occupancy, volume, queue lengths and speed”, we need a “technology (that) has been refined to a point, that field evaluations are currently being made.”. 
+     - A 25 year old quote a 1993 U.S. Department of Transportation, Federal Highway Administration training video, based on having conducted numerous surveys across numerous U.S. States showing that at any one point in time they had 25% detector failure. 
+     - “the large number of failures nationwide (having) created a deep concern within the traffic engineering community” - another quote from 1993.
 
     - Note, each is based on freely available open source code which any person, company can internally implement without, royalties, intellectual property payments or reliance on external vendors if they choose to pursue such an approach:-
 1. BOX: LaTrobe Street, Melbourne, YOLO Tram Real time
