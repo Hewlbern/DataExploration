@@ -36,9 +36,9 @@
 #### 1. Is there a World recognized body, who can authoritatively assert failure rates for loop detectors?
     - Yes. Federal Transportation Administrative, and more, 25 years ago wanted to improve loop detectors with 7 different "state of the art" technologies that were vastly superior. 25% at any one time in America were broken. More information at end of notebook
     -Details in appendix.
-#### 2. VicRoads / DoT Failure Rate and how does it compare to the USA at a estimate 25%?
-    - DoT developed and uses a excel tool to identify maintenance issues which are impacting on the operation of the traffic signal network. 
-    - The current VicRoads failure rate for loop detectors, if we isolated only 1 ‘data’ created as a result of loop detector failure (there are more than 1 type of failure to identify) as measured in the above tool (Degree of Saturation “DS”). This is only very obvious failures. 
+#### 2. What are other authorities failure rates and how does it compare to the USA at a estimate 25%?
+    - The "authority" checked developed and uses a excel tool to identify maintenance issues which are impacting on the operation of the traffic signal network. 
+    - The current "authority" failure rate for loop detectors, if we isolated only 1 ‘data’ created as a result of loop detector failure (there are more than 1 type of failure to identify) as measured in the above tool (Degree of Saturation “DS”). This is only very obvious failures. 
     - Loop detector failure, measured by DS (degree of saturation) is not the only data issue created by reliance on loop detectors.
         - Chatter (excessive counting caused by e.g. bus or truck braking), Lane Discipline (car triggering 2 lane detectors) and other contributory variables combine to make reliance upon a broken system of loop detectors, unfeasible as the source of ground truth – as each of these emanate faulty data from failing loop detectors.
 
@@ -79,7 +79,7 @@
  - "To establish ground truth, in terms of “occupancy, volume, queue lengths and speed”, we need a “technology (that) has been refined to a point, that field evaluations are currently being made.”. 
      - This is a 25 year old quote made in the above 1993 U.S. Department of Transportation, Federal Highway Administration training video, based on their having conducted numerous surveys across numerous U.S. States which had led to the assertion, that they collectively had a constant/at any point in time a 25% detector failure…causing “the large number of failures nationwide (having) created a deep concern within the traffic engineering community”.
 
-    - A 20 minute presentation of Computer Vision in May 2018, encompassing the plethora of exhaustive solutions to the issues faced in the Victorian Urban Arterial road network, is unworkable, so what follows is a list of links for self review. Note, each is based on freely available open source code which any person, company, (e.g. VicRoads) can internally implement without, royalties, intellectual property payments or reliance on external vendors if they choose to pursue such an approach:-
+    - Note, each is based on freely available open source code which any person, company can internally implement without, royalties, intellectual property payments or reliance on external vendors if they choose to pursue such an approach:-
 1. BOX: LaTrobe Street, Melbourne, YOLO Tram Real time
     - https://www.youtube.com/watch?v=BNHJRRUKMa4#t=2m01s
 2. MASK: Singapore
