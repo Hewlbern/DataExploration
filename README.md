@@ -48,8 +48,7 @@
 ### Failure Rates worldwide, and in Victoria, of loop detectors.
 
 #### 1. Is there a World recognized body, who can authoritatively assert failure rates for loop detectors?
-    - Yes. Federal Transportation Administrative, and more, 25 years ago wanted to improve loop detectors with 7 different "state of the art" technologies that were vastly superior. 25% at any one time in America were broken. More information at end of notebook
-    -Details in appendix.
+    - Yes. Federal Transportation Administrative, and more, 25 years ago wanted to improve loop detectors with 7 different "state of the art" technologies that were vastly superior. 25% at any one time in America were broken.
 #### 2. What are other authorities failure rates and how does it compare to the USA at a estimate 25%?
     - The authority checked developed and uses a excel tool to identify maintenance issues which are impacting on the operation of the traffic signal network. 
     - The failure rate for loop detectors, if we isolated only 1 ‘data’ created as a result of loop detector failure (there are more than 1 type of failure to identify). This is only for very obvious failures. 
@@ -79,7 +78,7 @@
 
 ## Other Dependencies
 1. SCATS is premised upon the faultless functioning of each lanes loop detector. This is magnified by subsequent SCATS ‘calculations’ and further assumptions which SCATS applies to the raw sourced information from the loop detector, including ‘smoothing and damping’ data the loop detector provides (sic), to compensate for ‘occasional significant fluctuation’, attributed to ‘various causes’.
-#### 2. SCATS for “the first time being lets humans decide for themselves if a detector is faulty and to otherwise ignore the SCATS calculations and operations (paraphrased)”. This concession, ultimately relies on user knowledge to displace SCATS calculations and ignore the erroneous volume calculations based on SCATS utter dependency upon faultless operation of loop detectors.
+#### 2. SCATS for “the first time lets humans decide for themselves if a detector is faulty and to otherwise ignore the SCATS calculations and operations (paraphrased)”. This concession, ultimately relies on user knowledge to displace SCATS calculations and ignore the erroneous volume calculations based on SCATS utter dependency upon faultless operation of loop detectors.
     - Can we find this feature “(that) SCATS involves human user to decide for themselves if a detector is faulty and no longer detecting vehicles as they pass by.” and make necessary traffic management decisions, anywhere in the SCATS promotional materials available online today, alternatively will the ‘caveat emptor’ raised in the above dissertation be raised by the vendor?.
 #### Interestingly, the official SCATS manual is less than helpful on targeting readers to potential issues of concern.
 
@@ -89,8 +88,8 @@
 
 ### It's super easy to do and cheaper than loop detectors and has more future functionality.
 
-#### Ground Truth is key to establish.
- - "To establish ground truth, in terms of “occupancy, volume, queue lengths and speed”, we need a “technology (that) has been refined to a point, that field evaluations are currently being made.”. 
+#### Truth must be established.
+ - "To establish truth, in terms of “occupancy, volume, queue lengths and speed”, we need a “technology (that) has been refined to a point, that field evaluations are currently being made.”. 
      - This is a 25 year old quote made in the above 1993 U.S. Department of Transportation, Federal Highway Administration training video, based on their having conducted numerous surveys across numerous U.S. States which had led to the assertion, that they collectively had a constant/at any point in time a 25% detector failure…causing “the large number of failures nationwide (having) created a deep concern within the traffic engineering community”.
 
     - Note, each is based on freely available open source code which any person, company can internally implement without, royalties, intellectual property payments or reliance on external vendors if they choose to pursue such an approach:-
