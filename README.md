@@ -2,7 +2,8 @@
 ## What's wrong with SCATS and it's detection? 
 - This repo is an exploration of different traffic detection and data types, and includes visualizations (dashboard, mapping, etc), computer vision proof of concept to show how to improve the existing traffic detection used in widely industry, and an exploration of how deep learning can be used as a vast improvement over the current coordination system "Masterlink".
 - This would create huge improvements in traffic conditions. Not only in congestion but also in safety.
-- At the end of this readme is a list of the current competitors. There  is one competing system that has recently been built that is utilizing what is discussed in this repository. https://www.rapidflowtech.com/surtrac .
+- At the end of this readme is a list of the current competitors. There  is one competing system that has recently been built that is utilizing what is discussed in this repository. https://www.rapidflowtech.com/surtrac . (There are more competitors).
+- It is worth noting - SCATS is the market leader in this market.
 
 ## Key Points	
 1. What is wrong with SCATS volume, can it be machine learned ‘fixed’ or not? (Past)
