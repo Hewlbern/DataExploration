@@ -109,3 +109,15 @@
 - No, combining multiple technologies, with multiple failsafe is required. A audit trail with a person performing once a week randomised checking of video data quality is an additional failsafe.
 
 ## Deep Learning Coordination
+
+### Current Coordination.
+
+### Reinforcement Learning - See Google's algorithm AlphaGo or the DoTa openAI 1v1 match.
+- more to come. Action - Value Optimization.
+
+### Deep Reinforcement Learning
+- Each intersection is an Agent that is optimized to decrease the congestion for the whole traffic network.
+### Data requirements
+- Detector loops are not capable of providing accurate traffic information for this system.
+- Video based analysis will work instead.
+     - Also vehicle to x may take its place, depends on time, can also use bluetooth or a variety of other detectors, but computer vision is the best option known now.
