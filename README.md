@@ -73,7 +73,7 @@
 
 
 
-### Computer Vision
+## Computer Vision
 
 ### It's super easy to do and cheaper than loop detectors and has more future functionality.
 
@@ -98,3 +98,5 @@
 ### Is a one method approach for Computer Vision proposed, as the best solution?
 
 - No, combining multiple technologies, with multiple failsafe is required. A audit trail with a person performing once a week randomised checking of video data quality is an additional failsafe.
+
+## Deep Learning Coordination
