@@ -49,11 +49,11 @@
 
 #### 1. Is there a World recognized body, who can authoritatively assert failure rates for loop detectors?
     - Yes. Federal Transportation Administrative, and more, 25 years ago wanted to improve loop detectors with 7 different "state of the art" technologies that were vastly superior. 25% at any one time in America were broken.
-#### 2. What are other authorities failure rates and how does it compare to the USA at a estimate 25%?
-    - Developed and uses a excel tool to identify maintenance issues which are impacting on the operation of the traffic signal network. 
-    - The failure rate for loop detectors, if we isolated only 1 ‘data’ created as a result of loop detector failure (there are more than 1 type of failure to identify). This is only for very obvious failures. 
-    - Loop detector failure, measured by DS (degree of saturation) is not the only data issue created by reliance on loop detectors.
-        - Chatter (excessive counting caused by e.g. bus or truck braking), Lane Discipline (car triggering 2 lane detectors) and other contributory variables combine to make reliance upon a broken system of loop detectors, unfeasible as the source of ground truth – as each of these emanate faulty data from failing loop detectors.
+#### 2. What are other authorities failure rates and how does it compare to the USA at a estimate 25%? 
+    - Yes it does compare. The best authorities are only able to isolate extremely obvious faults (one type).
+    - The failure rate for loop detectors, if we isolated only 1 ‘data’ created as a result of loop detector failure (there are more than 1 type of failure to identify), is still ridiculously high. This is only for very obvious failures. 
+    - Loop detector failure, measured by DS (degree of saturation) is only one fault type.
+        - Chatter (excessive counting caused by e.g. bus or truck braking), Lane Discipline (car triggering 2 lane detectors) and more fault types combine to make reliance upon loop detectors, a bad idea in the 21st century (and really since the 1980's onwards).
 
 ## SCATS Traffic Measurements and Calculations
 #### SCATS “volume calculations” are $VO, VK, DS.$
