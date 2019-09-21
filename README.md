@@ -13,7 +13,7 @@
 - SCATS is a traffic signal optimization system.
      - This is the major competitor with the best technology behind it (relatively new). https://www.rapidflowtech.com/surtrac . 
      - It is worth noting - SCATS is the market leader in signal optimization.
-- In Australia, congestion cost has been estimated to be up to $37.3 billion by 2030.
+- Congestion cost has been estimated to cost around $37.3 billion by 2030 (Australia).
 
 ## What's wrong with SCATS and it's detection? 
 
