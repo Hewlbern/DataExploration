@@ -91,9 +91,9 @@
 #### Truth must be established.
  - "To establish ground truth, in terms of “occupancy, volume, queue lengths and speed”, we need a “technology (that) has been refined to a point, that field evaluations are currently being made.”. 
      - A 25 year old quote a 1993 U.S. Department of Transportation, Federal Highway Administration training video, based on having conducted numerous surveys across numerous U.S. States showing that at any one point in time they had 25% detector failure. 
-     - “the large number of failures nationwide (having) created a deep concern within the traffic engineering community” - another quote from 1993.
 
-    - Note, each is based on freely available open source code which any person, company can internally implement without, royalties, intellectual property payments or reliance on external vendors if they choose to pursue such an approach:-
+#### Examples of computer vision
+
 1. BOX: LaTrobe Street, Melbourne, YOLO Tram Real time
     - https://www.youtube.com/watch?v=BNHJRRUKMa4#t=2m01s
 2. MASK: Singapore
@@ -106,6 +106,7 @@
 
 - No simplistic listing of the free open sourced computer vision technologies is adequate to represent the list of International companies (Facebook, Google, Microsoft, Nvidia, Baidu, etc etc) who are in a race to ‘gain market share’ of their technology stacks to avoid losing relevance – by deliberately freely providing deep learning and convolutional neural network, frameworks and production pipelines.
 
+    - Note, each is based on freely available open source code which any person, company can internally implement without, royalties, intellectual property payments or reliance on external vendors if they choose to pursue such an approach:-
 
 ### Is a one method approach for Computer Vision proposed, as the best solution?
 
