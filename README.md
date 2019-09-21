@@ -3,7 +3,7 @@
      - visualizations (dashboard, mapping, etc)
      - computer vision proof of concept
      - An exploration of how deep learning can be used as a vast improvement over the current coordination system "Masterlink".
-- How adopting these technologies could create huge improvements
+- How adopting these technologies could create huge improvements in:
      - Congestion and safety.
      - Adoption of coordinated signalling in countries around the world simple.
 - And a detailed explanation of the current system and it's obvious flaws.
