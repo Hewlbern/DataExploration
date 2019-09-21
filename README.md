@@ -1,5 +1,8 @@
 
-## What's wrong with SCATS and it's detection.
+## What's wrong with SCATS and it's detection? 
+### This repo is an exploration of different traffic detection and data types, and includes visualizations (dashboard, mapping, etc), computer vision proof of concept to show how to improve the existing traffic detection used in widely industry, and an exploration of how deep learning can be used as a vast improvement over the current coordination system Masterlink.
+### This could create huge improvements in traffic conditions. Less congestion, Less accidents, Richer Data. 
+### In general a better transport network.
 
 ## Key Points	
 1. What is wrong with SCATS volume, can it be machine learned ‘fixed’ or not? (Past)
@@ -90,13 +93,7 @@
 
 - No simplistic listing of the free open sourced computer vision technologies is adequate to represent the list of International companies (Facebook, Google, Microsoft, Nvidia, Baidu, etc etc) who are in a race to ‘gain market share’ of their technology stacks to avoid losing relevance – by deliberately freely providing deep learning and convolutional neural network, frameworks and production pipelines.
 
-#### more details in Appendix
-
-
 
 ### Is a one method approach for Computer Vision proposed, as the best solution?
 
 - No, combining multiple technologies, with multiple failsafe is required. A audit trail with a person performing once a week randomised checking of video data quality is an additional failsafe.
-
-
-### Appendix is in folder.
