@@ -22,7 +22,6 @@
      - SCATS volume calculations
     - SCATS hierarchical accuracy - The end point being accuracy depends on faultless loop detector operation.
     - Research on loop detector failure - at least 20-30% are failed at any one time in US that understands the failures.
-    - Authority Failure rates
     - Is failure rates the only data issue - No.
 2.	How can computer vision, overcome, replace and correct what we know about ‘SCATS volume errors’? (Present)
     - More than one approach critical
@@ -74,7 +73,8 @@
 
 ## Research dissertation using actual SCATS data from Dublin which explored the internal SCATS algorithms and limitations.
 - https://www.scss.tcd.ie/publications/tech-reports/reports.00/TCD-CS-2000-46.pdf
-- One may interpret this dissertation effort as, ‘get the raw data out of SCATS and design an improved Algorithm to reduce traffic congestion and learn what’s going on’, another interpretation may be, ‘how badly is the SCATS algorithms performing against our own design, using the same data as SCATS actually uses’.
+- One may interpret this dissertation effort as, ‘get the raw data out of SCATS and design an improved Algorithm to reduce traffic congestion and learn what’s going on’
+- Another interpretation may be, ‘how badly is the SCATS algorithms performing against our own design, using the same data as SCATS actually uses’.
 
 ## Other Dependencies
 1. SCATS relies on the faultless functioning of each lanes loop detector. 
@@ -92,7 +92,7 @@
  - "To establish ground truth, in terms of “occupancy, volume, queue lengths and speed”, we need a “technology (that) has been refined to a point, that field evaluations are currently being made.”. 
      - A 25 year old quote a 1993 U.S. Department of Transportation, Federal Highway Administration training video, based on having conducted numerous surveys across numerous U.S. States showing that at any one point in time they had 25% detector failure. 
 
-#### Examples of computer vision
+#### Examples of Computer Vision.
 
 1. BOX: LaTrobe Street, Melbourne, YOLO Tram Real time
     - https://www.youtube.com/watch?v=BNHJRRUKMa4#t=2m01s
@@ -110,7 +110,7 @@
 
 ### Is a one method approach for Computer Vision proposed, as the best solution?
 
-- No, combining multiple technologies, with multiple failsafe is required. A audit trail with a person performing once a week randomised checking of video data quality is an additional failsafe.
+- No, combining multiple technologies, with multiple failsafe is required.
 
 ## Deep Learning Coordination
 
