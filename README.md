@@ -1,5 +1,5 @@
 .....
-## What's wrong with SCATS and it's detection? 
+## Traffic Analysis and Exploration - and how to build a better coordination system.
 - This repo is an analysis of traffic detection and data types including:
      - visualizations (dashboard, mapping, etc)
      - computer vision proof of concept
@@ -7,7 +7,7 @@
 - How adopting these technologies could create huge improvements
      - Congestion and safety.
      - Adoption of coordinated signalling in countries around the world simple.
-- And a detailed explanation of the current system.
+- And a detailed explanation of the current system and it's obvious flaws.
 
 ## Background on the topic:
 - Traffic signal optimization -> reducing time stopped at traffic signals. 
@@ -16,12 +16,14 @@
      - It is worth noting - SCATS is the market leader in signal optimization.
 - In Australia, congestion cost has been estimated to be up to $37.3 billion by 2030.
 
+## What's wrong with SCATS and it's detection? 
+
 ## Key Points	
-1. What is wrong with SCATS volume, can it be machine learned ‘fixed’ or not? (Past)
+1. What is wrong with SCATS volume (Past)
      - SCATS volume calculations
     - SCATS hierarchical accuracy - The end point being accuracy depends on faultless loop detector operation.
     - Research on loop detector failure - at least 20-30% are failed at any one time in US that understands the failures.
-    - DoT Failure rates
+    - Authority Failure rates
     - Is failure rates the only data issue - No.
 2.	How can computer vision, overcome, replace and correct what we know about ‘SCATS volume errors’? (Present)
     - More than one approach critical
