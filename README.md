@@ -37,8 +37,8 @@
     - Yes. Federal Transportation Administrative, and more, 25 years ago wanted to improve loop detectors with 7 different "state of the art" technologies that were vastly superior. 25% at any one time in America were broken. More information at end of notebook
     -Details in appendix.
 #### 2. What are other authorities failure rates and how does it compare to the USA at a estimate 25%?
-    - The "authority" checked developed and uses a excel tool to identify maintenance issues which are impacting on the operation of the traffic signal network. 
-    - The current "authority" failure rate for loop detectors, if we isolated only 1 ‘data’ created as a result of loop detector failure (there are more than 1 type of failure to identify) as measured in the above tool (Degree of Saturation “DS”). This is only very obvious failures. 
+    - The authority checked developed and uses a excel tool to identify maintenance issues which are impacting on the operation of the traffic signal network. 
+    - The failure rate for loop detectors, if we isolated only 1 ‘data’ created as a result of loop detector failure (there are more than 1 type of failure to identify). This is only for very obvious failures. 
     - Loop detector failure, measured by DS (degree of saturation) is not the only data issue created by reliance on loop detectors.
         - Chatter (excessive counting caused by e.g. bus or truck braking), Lane Discipline (car triggering 2 lane detectors) and other contributory variables combine to make reliance upon a broken system of loop detectors, unfeasible as the source of ground truth – as each of these emanate faulty data from failing loop detectors.
 
