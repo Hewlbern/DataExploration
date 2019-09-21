@@ -7,12 +7,13 @@
 - How adopting these technologies could create huge improvements
      - Congestion and safety.
      - Adoption of coordinated signalling in countries around the world simple.
+- And a detailed explanation of the current system.
 
 ## Background on the topic:
-- Traffic signal optimization is the method by which time stopped at traffic signals is reduced. 
+- Traffic signal optimization -> reducing time stopped at traffic signals. 
 - SCATS is a traffic signal optimization system.
-     - At the end of this readme is a list of the current competitors. There  is one competing system that has recently been built that is utilizing what is discussed in this repository. https://www.rapidflowtech.com/surtrac . (There are more competitors).
-     - It is worth noting - SCATS is the market leader in this adaptive signalling.
+     - This is the major competitor with the best technology behind it (relatively new). https://www.rapidflowtech.com/surtrac . 
+     - It is worth noting - SCATS is the market leader in signal optimization.
 - In Australia, congestion cost has been estimated to be up to $37.3 billion by 2030.
 
 ## Key Points	
