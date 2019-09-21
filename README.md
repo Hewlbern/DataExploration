@@ -5,7 +5,7 @@
      - computer vision proof of concept
      - An exploration of how deep learning can be used as a vast improvement over the current coordination system "Masterlink".
 - How adopting these technologies could create huge improvements in congestion and safety.
-- How utilizing these technologies would make adoption of coordinated signalling in countries around the world easier and build a better global transport system.
+- How utilizing these technologies could make adoption of coordinated signalling in countries around the world easier and build a better global transport system.
 
 ## Background on the topic:
 - Traffic signal optimization is the method by which time stopped at traffic signals is reduced. 
