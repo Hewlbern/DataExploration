@@ -1,13 +1,13 @@
 .....
 ## What's wrong with SCATS and it's detection? 
 - This repo is an exploration of different traffic detection and data types, and includes visualizations (dashboard, mapping, etc), computer vision proof of concept to show how to improve the existing traffic detection used in widely industry, and an exploration of how deep learning can be used as a vast improvement over the current coordination system "Masterlink".
-- This would create huge improvements in congestion and safety.
-- At the end of this readme is a list of the current competitors. There  is one competing system that has recently been built that is utilizing what is discussed in this repository. https://www.rapidflowtech.com/surtrac . (There are more competitors).
-- It is worth noting - SCATS is the market leader in this adaptive signalling.
 
 ## Background on the topic:
 - Traffic signal optimization is the method by which time stopped at traffic signals is reduced. 
 - SCATS is a traffic signal optimization system.
+     - This would create huge improvements in congestion and safety.
+     - At the end of this readme is a list of the current competitors. There  is one competing system that has recently been built that is utilizing what is discussed in this repository. https://www.rapidflowtech.com/surtrac . (There are more competitors).
+     - It is worth noting - SCATS is the market leader in this adaptive signalling.
 - In Australia, congestion cost has been estimated to be up to $37.3 billion by 2030.
 
 ## Key Points	
