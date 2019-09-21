@@ -1,6 +1,6 @@
 .....
 ## What's wrong with SCATS and it's detection? 
-- This repo is an exploration of different traffic detection and data types including:
+- This repo is an analysis of traffic detection and data types including:
      - visualizations (dashboard, mapping, etc)
      - computer vision proof of concept
      - An exploration of how deep learning can be used as a vast improvement over the current coordination system "Masterlink".
