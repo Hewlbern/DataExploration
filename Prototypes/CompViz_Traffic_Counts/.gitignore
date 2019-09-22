@@ -1,0 +1,8 @@
+
+# media files
+*.mp4
+*.avi
+*.mpeg
+tester/*.jpeg
+tester/*.jpg
+tester/*.png
