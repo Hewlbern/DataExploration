@@ -1,6 +1,8 @@
-# This is a POC for Traffic detection. Built in 2018 so use the pip install to avoid compatibility issues. Using a variety of resources online including openCV tutorials and learning about these tools with pyimagesearch and generally looking through tutorials on traffic detection (have others i've tried for ANPR and etc that I ceebs finding and putting up).
+# This is a POC for Traffic detection. 
 
-# This solution is not ideal. Lots of issues like not showing vehicle classification. It does give quite good accuracy though (especially with some small improvements). A small & simple algorithms really - that gives better results than any loop detector ever could. The best way to do this is to use deep convolution networks.
+- Built in 2018 so use the pip install to avoid compatibility issues. Using a variety of resources online including openCV tutorials and learning about these tools with pyimagesearch and generally looking through tutorials on traffic detection (have others i've tried for ANPR and etc that I will upload soon in another repo).
+
+- This solution is not ideal. Lots of issues like not showing vehicle classification. It does give quite good accuracy though (especially with some small improvements). A small & simple algorithms really - that gives better results than any loop detector ever could. The best way to do this is to use deep convolution networks.
 
 
 
