@@ -4,6 +4,8 @@
 
 - This solution is not ideal. Lots of issues like not showing vehicle classification. It does give quite good accuracy though (especially with some small improvements). A small & simple algorithms really - that gives better results than any loop detector ever could. The best way to do this is to use deep convolution networks.
 
+- I was trying to make this work on a raspberry pi which was a bit of a waste of time lol.
+
 
 
 ## Instructions
