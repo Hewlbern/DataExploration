@@ -9,13 +9,10 @@
 
 
 ## Instructions
-Re-adjust inputs with the traffic video of your choice as per below and run t_detection.py when finished.
+Re-adjust inputs at **t_detection.py**  with the traffic video of your choice as per below and run t_detection.py when finished.
 
 Your output will be "./tester" dir with frames and etc, and "data.csv" file with format "time, vehicles".
 
 Use compile  script to create video from frames.
 
 How to create report plot -> change in the variables within the file depending on the data csv.
-
-How to adjust.
-Edit **t_detection.py** . Should be relatively straightforward.
