@@ -93,6 +93,9 @@ Example of Map Visualizations and general analysis.
 
 ### It's super easy to do and cheaper than loop detectors and has more future functionality.
 
+Example is given in this repo. Below is the MOG MASK at work!
+- ![Example Viz]( https://github.com/Hewlbern/Traffic-Exploration/blob/master/visualisation%20and%20images/MOGmask.jpg)
+
 #### Truth must be established.
  - "To establish ground truth, in terms of “occupancy, volume, queue lengths and speed”, we need a “technology (that) has been refined to a point, that field evaluations are currently being made.”. 
      - A 25 year old quote a 1993 U.S. Department of Transportation, Federal Highway Administration training video, based on having conducted numerous surveys across numerous U.S. States showing that at any one point in time they had 25% detector failure. 
