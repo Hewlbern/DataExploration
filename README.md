@@ -12,6 +12,9 @@ Example of Map Visualizations and general analysis.
 
 - ![Example Viz](https://github.com/Hewlbern/Traffic-Exploration/blob/master/visualisation%20and%20images/Mean_DS_VKVO_2019-08-06_AM.png)
 
+Example of working PoC of traffic detection
+
+- ![](https://media.giphy.com/media/l2AZ1eHPWbdF8oqjV3/giphy.gif)
 
 ## Background on the topic:
 - Traffic signal optimization -> reducing time stopped at traffic signals. 
