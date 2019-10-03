@@ -8,6 +8,11 @@
      - Adoption of coordinated signalling in countries around the world.
 - And a detailed explanation of the current system and it's obvious flaws.
 
+Example of Visualizations and general analysis.
+- ![Example Viz](https://github.com/Hewlbern/Traffic-Exploration/blob/master/visualisation%20and%20images/image.png)
+- ![Example Viz](https://github.com/Hewlbern/Traffic-Exploration/blob/master/visualisation%20and%20images/Mean_DS_VKVO_2019-08-06_AM.png)
+
+
 ## Background on the topic:
 - Traffic signal optimization -> reducing time stopped at traffic signals. 
 - SCATS is a traffic signal optimization system.
