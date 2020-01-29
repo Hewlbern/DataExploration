@@ -16,7 +16,7 @@ Example of working PoC of traffic detection
 
 ![](https://media.giphy.com/media/l2AZ1eHPWbdF8oqjV3/giphy.gif)
 
-Example of POC for traffic data app (Freeway data, now does real time arterial and more, this is almost a year old now).
+Example of POC for traffic data app (Freeway data, now does real time arterial and more, from early 2018).
 
 ![](https://media.giphy.com/media/eHjYouzeUBzDI4Rf12/giphy.gif)
 
